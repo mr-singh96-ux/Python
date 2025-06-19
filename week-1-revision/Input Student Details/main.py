@@ -1,0 +1,7 @@
+Roll_no=int(input("Roll No.:"))
+Student_name=(input("Student Name:"))
+Course_name=(input("Course Name:"))
+Batch=int(input("Batch:"))
+Percentage_12th=float(input("Percentage in 12th:"))
+print(f"I am {Student_name} and my roll no. is {Roll_no}.")
+print(f"I have enrolled in {Course_name} batch of {Batch}. I have obtained {Percentage_12th} in 12th grade.")

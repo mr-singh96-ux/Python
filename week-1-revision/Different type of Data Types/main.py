@@ -1,0 +1,10 @@
+a=5
+b=5.68
+c=True
+d="Hello World"
+e=2j+1
+print(f"a={a}",type(a))
+print(f"b={b}",type(b))
+print(f"c={c}",type(c))
+print(f"d={d}",type(d))
+print(f"a={e}",type(e))
